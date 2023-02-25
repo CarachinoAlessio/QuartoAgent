@@ -1,6 +1,7 @@
-# Computational Intelligence, Final Project: Quarto Agents
+# Quarto Agents
+## Contributors
 
-| **Contributors** | **sID** |
+| **Contributor** | **sID** |
 |---|---|
 | Alessio Carachino | s296138 |
 | Giuseppe Atanasio | s300733 |
